@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">ListView con 10 elementos</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- AMOR A LA FISÍCA -->
+    <string name="amorfisicaA">Por Amor a la Física</string>
+    <string name="amorfisicaB">Guía práctica de la física en la actualidad</string>
+    <string name="amorfisicaC">Libro de física-química para estudiantes de preparatoria, temas relevantes son: la materia, transformación de la materia, física-inorgánica, orgánica y los estados sólidos.</string>
+
+    <!-- CIEN AÑOS DE SOLEDAD -->
+    <string name="cienaniosA">Cien años de Soledad</string>
+    <string name="cienaniosB">Historia basada en hechos reales</string>
+    <string name="cienaniosC">Historia verdadera relatada por Juana Contreras, de como fue su vida de adultería estando sola toda su vida y a todo los problemas que tuvo que enfrentar ella sola.</string>
+
+    <!-- BIOSHOCK -->
+    <string name="bioshockA">Bioshock</string>
+    <string name="bioshockB">Documental de busos y tiburones</string>
+    <string name="bioshockC">Documental de como es la vida de un buso dentro del agua salada del mar frente a la más grande amenaza del mundo acuatico, los tiburónes. Muestran como se enfrentan frente a frente y ataques.</string>
+
+    <!-- GUITAR HERO -->
+    <string name="guitarheroA">Guitar Hero</string>
+    <string name="guitarheroB">Manual para el famoso juego GuitarHero</string>
+    <string name="guitarheroC">Desde el lanzamiento del juego más famoso durante los 5 años Guitar Hero, a creado mucha controvercia ya que durante su primer año de lanzamiento logro vender más de 1,000 copias.</string>
+
+    <!-- HEROE PERDIDO -->
+    <string name="heroeperdidoA">El Héroe Perdido</string>
+    <string name="heroeperdidoB">Cuento de ciencia ficción</string>
+    <string name="heroeperdidoC">Un héroe que llega del futuro a evitar la más grande guerra que el mundo a visto, lamentablemente siempre hay perdidad en una guerra pero al final salva a el mundo con gran Honor y Valentía.</string>
+
+    <!-- PRINCIPITO -->
+    <string name="principitoA">El Principito</string>
+    <string name="principitoB">Cuento infantil de segundo grado</string>
+    <string name="principitoC">Cuento infantil que habla de un joven que da la vuelta al mundo y cuenta su experiencia que vivió alrededor del mundo. Tradiciones, gustos de las personas, comidas y demás culturas.</string>
+
+    <!-- SEDUCCION DE PALABRAS -->
+    <string name="seduccionpalA">La Seducción de las Palabras</string>
+    <string name="seduccionpalB">Libro del idioma español y la gramática</string>
+    <string name="seduccionpalC">Libro de la literatura española 2008. Describe el significado de más de 3,000 palabras, su signifícado y la gramática, además de grafícos que describen varias actividades para los lectores.</string>
+
+    <!-- TRAMPA DEL OSO -->
+    <string name="trampaosoA">La Trampa del Oso</string>
+    <string name="trampaosoB">Cuento infantil cuarto grado</string>
+    <string name="trampaosoC">Cuento infantil que habla de un Oso y su gusto por la miel, sin embargo la miel no es facíl de conseguir, es por eseo que el Oso tendrá que crear diferentes trampas para conseguirla.</string>
+
+    <!-- VALORES -->
+    <string name="valoresA">El libro de los valores</string>
+    <string name="valoresB">Libro de apoyo a los valores morales</string>
+    <string name="valoresC">La humanidad se ha encontrado con diversos problemas personales a travez del tiempo. Uno de esos son los valores, ya que se han estado perdiendo a travéz del tiempo.</string>
+
+    <!-- VEINTE PETALOS -->
+    <string name="veintepetalosA">Veinte Petalos</string>
+    <string name="veintepetalosB">Novela Romántica de dos encuentros</string>
+    <string name="veintepetalosC">Historia basada en hechos reales de un encuentro de dos personas después de varios años de averse conocído cuando eran niños. Demostrando que el amor verdadero transpasa barreras.</string>
+
+</resources>
